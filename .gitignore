@@ -225,3 +225,6 @@ __marimo__/
 # dataset
 dataset/*
 output/*
+
+# vscode
+.vscode/*
