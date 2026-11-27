@@ -224,7 +224,12 @@ __marimo__/
 
 # dataset
 dataset/*
+merged_dataset/*
 output/*
 
 # vscode
 .vscode/*
+
+# experiment logs
+logs/*
+runs/*
